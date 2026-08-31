@@ -20,6 +20,6 @@ I build intelligent systems at the intersection of AI and data engineering — a
 
 ## Links
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-007ACC?style=flat&logo=google-chrome&logoColor=white)](https://ilhamtirach.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-007ACC?style=flat&logo=google-chrome&logoColor=white)](https://ilham-tirach.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ilham-tirach)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ilhamtirach@gmail.com)
