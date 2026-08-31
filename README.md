@@ -6,10 +6,10 @@ I build intelligent systems at the intersection of AI and data engineering — a
 
 ## What I Work With
 
-**AI & LLM Engineering:** LangChain, LangGraph, RAG, Agents, Tool Calling, Transformers, Gemini API, Pydantic  
-**Data Processing:** PyPDF, Camelot, Docling, Marker, Pandas, Selenium  
-**Databases & Vector Stores:** PostgreSQL, Weaviate, ChromaDB, Qdrant, pgvector, FAISS, Elasticsearch  
-**Backend & DevOps:** FastAPI, Docker, Apache Airflow, GCP, Git
+**AI & LLM Engineering:** Pyhon, Pydantic, LangChain, LangGraph, RAG, Agents, Tool Calling, Transformers, Gemini API  
+**Data Processing:** PyPDF, Camelot, Docling, Marker, Pandas, Selenium 
+**Databases & Vector Stores:** PostgreSQL, Weaviate, ChromaDB, Qdrant, pgvector, FAISS  
+**Backend & DevOps:** FastAPI, Docker, Apache Airflow, GCP, Git/Github
 
 ## Recent Work
 
